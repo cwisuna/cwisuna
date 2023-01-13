@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christopher Luna!
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... christtopherluna@gmail.com
 
 <!---
